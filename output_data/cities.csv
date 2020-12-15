@@ -1,4 +1,4 @@
-City,Latitude,Longitute,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+City,Latitude,Longitude,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
 punta arenas,-53.15,-70.92,51.8,57,20,50.55,CL,1608054617
 yellowknife,62.46,-114.35,-29.0,73,40,2.24,CA,1608054618
 khandbari,27.37,87.2,52.41,48,0,2.53,NP,1608054618
